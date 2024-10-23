@@ -13,7 +13,7 @@ Sou um desenvolvedor com experiência em diversas tecnologias, sempre focado em 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Yup Validator](https://img.shields.io/badge/yup-validator-yellow)
+![Yup Validator](https://img.shields.io/badge/yup-validato.svg?style=for-the-badge&logo=yup&logoColor=yellow)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -92,7 +92,7 @@ Sou um desenvolvedor com experiência em diversas tecnologias, sempre focado em 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![CorelDRAW](https://img.shields.io/badge/CorelDRAW-2311AB00?style=for-the-badge&logo=corel&logoColor=white)
+![CorelDRAW](https://img.shields.io/badge/CorelDRAW-2311AB00.svg?style=for-the-badge&logo=corel&logoColor=white)
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gustavo-Cruz-Pinheiro&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
