@@ -13,7 +13,7 @@ Sou um desenvolvedor com experiência em diversas tecnologias, sempre focado em 
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
 ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
-![Yup Validator](https://img.shields.io/badge/yup-validato-yellow.svg?style=for-the-badge&logo=yup&logoColor=yellow)
+![Yup Validator](https://img.shields.io/badge/yup-validator-yellow.svg?style=for-the-badge&logo=yup&logoColor=yellow)
 ![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
