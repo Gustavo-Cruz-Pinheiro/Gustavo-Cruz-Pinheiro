@@ -1,3 +1,4 @@
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
   <a href="#ab"> 🚀 About Me </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#so"> 🌐 Socials </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
