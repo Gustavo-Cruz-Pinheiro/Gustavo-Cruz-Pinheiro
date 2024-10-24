@@ -7,7 +7,7 @@
   <a href="#so"> 🌐 Socials </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#te"> 💻 Tech Stack </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gi"> 📊 GitHub Stats </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#ra">✍️ Random Dev Quote </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- <a href="#ra">✍️ Random Dev Quote </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
 <br/>
@@ -129,13 +129,15 @@ Sou um desenvolvedor com experiência em persas tecnologias, sempre focado em cr
 </div>
 <br/>
 
+<!--
 <a id="ra"></a>
 ## ✍️ Random Dev Quote
 <div align="center">
-  
+
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 </div>
+-->
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gustavo-Cruz-Pinheiro&icon=1&color=3)](https://visitcount.itsvg.in)
