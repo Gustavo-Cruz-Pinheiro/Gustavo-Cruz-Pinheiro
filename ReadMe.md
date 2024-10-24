@@ -1,10 +1,27 @@
+<p align="center">
+  <a href="#ab"> 🚀 About Me </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#so"> 🌐 Socials </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#te"> 💻 Tech Stack </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#gi"> 📊 GitHub Stats </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#ra">✍️ Random Dev Quote </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
+
+<br/>
+
+<a id="ab"></a>
+
 # 🚀 About Me:
 Sou um desenvolvedor com experiência em diversas tecnologias, sempre focado em criar soluções eficientes para sistemas web e APIs. Minha paixão está no desenvolvimento de software, trabalhando em diversas linguagens e frameworks para atender às demandas do mercado.
 
+<br/>
 
+<a id="so"></a>
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusttavo.cruz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-cruz-pinheiro) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gustavocruzpinheiro)
 
+<br/>
+
+<a id="te"></a>
 ## 💻 Tech Stack:
 ### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -94,15 +111,25 @@ Sou um desenvolvedor com experiência em diversas tecnologias, sempre focado em 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![CorelDRAW](https://img.shields.io/badge/CorelDRAW-2311AB00.svg?style=for-the-badge&logo=corel&logoColor=white)
 
+<br/>
+
+<a id="gi"></a>
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gustavo-Cruz-Pinheiro&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Cruz-Pinheiro&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Cruz-Pinheiro&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<br/>
+
+<a id="ra"></a>
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gustavo-Cruz-Pinheiro&icon=1&color=3)](https://visitcount.itsvg.in)
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
