@@ -1,4 +1,4 @@
-<h1 align="center"> Bem Vindo ao meu perfil! 😁 </h1>
+<h1 align="center"> Bem-vindo ao meu perfil! 😁 </h1>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
