@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="#ab"> 🚀 About Me </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#so"> 🌐 Socials </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#so"> 🌐 Socials & Contact Links </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#te"> 💻 Tech Stack </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#gi"> 📊 GitHub Stats </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <!-- <a href="#ra">✍️ Random Dev Quote </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
@@ -21,8 +21,11 @@ Sou um desenvolvedor com experiência em persas tecnologias, sempre focado em cr
 <br/>
 
 <a id="so"></a>
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusttavo.cruz_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-cruz-pinheiro) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gustavocruzpinheiro)
+## 🌐 Socials & Contact Links:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusttavo.cruz_) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-cruz-pinheiro) 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/gustavocruzpinheiro)
+[![Email](https://img.shields.io/badge/Email-D14836.svg?logo=Gmail&logoColor=white)](mailto:gcp2703@gmail.com)
 
 <br/>
 
