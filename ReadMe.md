@@ -4,23 +4,23 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 <p align="center">
-  <a href="#ab"> 🚀 About Me </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#so"> 🌐 Socials & Contact Links </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#te"> 💻 Tech Stack </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#gi"> 📊 GitHub Stats </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#about"> 🚀 About Me </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#social"> 🌐 Socials & Contact Links </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#stack"> 💻 Tech Stack </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#stats"> 📊 GitHub Stats </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <!-- <a href="#ra">✍️ Random Dev Quote </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
 <br/>
 
-<a id="ab"></a>
+<a id="about"></a>
 
 ## 🚀 About Me:
 Sou um desenvolvedor com experiência em persas tecnologias, sempre focado em criar soluções eficientes para sistemas web e APIs. Minha paixão está no desenvolvimento de software, trabalhando em persas linguagens e frameworks para atender às demandas do mercado.
 
 <br/>
 
-<a id="so"></a>
+<a id="social"></a>
 ## 🌐 Socials & Contact Links:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gusttavo.cruz_) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gustavo-cruz-pinheiro) 
@@ -29,7 +29,7 @@ Sou um desenvolvedor com experiência em persas tecnologias, sempre focado em cr
 
 <br/>
 
-<a id="te"></a>
+<a id="stack"></a>
 ## 💻 Tech Stack:
 ### Frontend Technologies
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -121,7 +121,7 @@ Sou um desenvolvedor com experiência em persas tecnologias, sempre focado em cr
 
 <br/>
 
-<a id="gi"></a>
+<a id="stats"></a>
 ## 📊 GitHub Stats:
 <div align="center">
   
