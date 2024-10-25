@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="transform: scaleY(-1);"/>
+  <!--<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer" style="transform: scaleY(-1);"/>-->
 <h1 align="center"> Bem-vindo ao meu perfil! 😁 </h1>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
