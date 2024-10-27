@@ -127,7 +127,7 @@ Sou um desenvolvedor com experiência em persas tecnologias, sempre focado em cr
   
 <!--![](https://github-readme-stats.vercel.app/api?username=Gustavo-Cruz-Pinheiro&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true)<br/> -->
 <!--![](https://github-readme-streak-stats.herokuapp.com/?user=Gustavo-Cruz-Pinheiro&theme=blue-green&hide_border=false)<br/>-->
-![](https://streak-stats.demolab.com/?user=Gustavo-Cruz-Pinheiro&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=blue-green))<br/>
+![](https://streak-stats.demolab.com/?user=Gustavo-Cruz-Pinheiro&border_radius=5&locale=pt_BR&date_format=j%2Fn%5B%2FY%5D&theme=blue-green)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Cruz-Pinheiro&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
