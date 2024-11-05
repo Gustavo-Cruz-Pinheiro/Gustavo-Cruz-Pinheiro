@@ -149,5 +149,3 @@ Sou um desenvolvedor com experiência em persas tecnologias, sempre focado em cr
 <br/>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
