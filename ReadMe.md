@@ -7,7 +7,7 @@
   <a href="#about"> 🚀 About Me </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#social"> 🌐 Socials & Contact Links </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#stack"> 💻 Tech Stack </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#stats"> 📊 GitHub Stats </a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#stats"> 📊 GitHub Stats </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="#ra">✍️ Random Dev Quote </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-->
 </p>
 
