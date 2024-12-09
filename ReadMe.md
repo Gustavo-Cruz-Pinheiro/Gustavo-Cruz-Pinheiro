@@ -16,7 +16,7 @@
 <a id="about"></a>
 
 ## 🚀 About Me:
-Sou um desenvolvedor com experiência em diversas tecnologias, sempre focado em criar soluções eficientes para sistemas web e APIs. Minha paixão está no desenvolvimento de software, trabalhando em persas linguagens e frameworks para atender às demandas do mercado.
+Sou desenvolvedor com ampla experiência em diversas tecnologias, especializado na criação de soluções eficientes para sistemas web e APIs. Minha paixão é o desenvolvimento de software, explorando diferentes linguagens e frameworks para entregar soluções inovadoras e atender às necessidades do mercado. Estou sempre em busca de aprimorar minhas habilidades e contribuir para projetos impactantes.
 
 <br/>
 
